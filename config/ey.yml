@@ -2,3 +2,7 @@ environments:
   test_inject:
     migrate: false
     ignore_database_adapter_warning: true
+  bare_puma_rbx19:
+    migrate: false
+    ignore_database_adapter_warning: true
+
